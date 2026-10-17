@@ -1,0 +1,72 @@
+{
+  "brand": {
+    "title": "AI COMMAND CENTER",
+    "meta": "YOUR RUNTIME · YOUR AGENTS · YOUR MEMORY",
+    "runtime": "RUNTIME",
+    "runtimeSub": "your runner",
+    "runtimeVer": "routes · remembers",
+    "hub": "HERD",
+    "hubSub": "routes to the agents",
+    "memoryName": "second brain",
+    "crmName": "your money lane",
+    "herdLine": "your herd · wired"
+  },
+  "agents": [
+    {"name": "CODEX", "ver": "—", "role": "openai cli"},
+    {"name": "CLAUDE", "ver": "—", "role": "anthropic cli"},
+    {"name": "OPENCODE", "ver": "—", "role": "open · v2"},
+    {"name": "OMP", "ver": "—", "role": "agent shell"},
+    {"name": "PI", "ver": "—", "role": "agent"},
+    {"name": "AGENT 6", "ver": "—", "role": "deployable"}
+  ],
+  "computeLocal": {
+    "spec": "your laptop — cpu only",
+    "point": "runs capture, memory, agents",
+    "model": "—",
+    "size": "add your local model",
+    "tok_s": 0,
+    "tokLabel": "—",
+    "cost": "0 $/mo — you own it"
+  },
+  "computeGpu": {
+    "addr": "your box · ip:port",
+    "note": "set addr + tok_s when it's reachable",
+    "model": "—",
+    "size": "add your gpu model",
+    "tok_s": 0,
+    "tokLabel": "—",
+    "cost": "—",
+    "mapNote": "bigger models · faster"
+  },
+  "memory": {
+    "digest": "~/your-path/latest-digest.md",
+    "excerpt": [
+      "your capture pipeline writes a digest here — every night",
+      "link it to your memory store — answers come from real history",
+      "keep your client notes, decisions, ideas — all of it",
+      "— this is the file your runtime reads when you ask 'what's in my brain?'"
+    ],
+    "t0": "capture — screen + mic, always on",
+    "t1": "snapshot — nightly digest job",
+    "t2": "memory store — your second brain",
+    "t3": "query — your runtime answers from it"
+  },
+  "cta": {
+    "headline": "TAKE THE STACK",
+    "body": [
+      "download it, rename it, make it yours",
+      "agents, memory, compute — your names, your links"
+    ],
+    "link": "YOUR JOIN LINK HERE",
+    "badge": "COMMENT: YOUR-TAG",
+    "sub": "take it, flip it, make it yours"
+  },
+  "ticker": [
+    "[runtime] online — agents registered",
+    "[herd] assembled: your cli agents",
+    "[memory] mounted — digest ready",
+    "[capture] always on — screen + mic",
+    "[crm] money lane — connect yours",
+    "[cron] nightly snapshot armed"
+  ]
+}

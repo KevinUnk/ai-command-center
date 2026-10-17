@@ -1,0 +1,9 @@
+# Local runtime artifacts and sensitive info
+live.json
+.hermes/
+
+# OS / editor cruft
+.DS_Store
+*.swp
+*.swo
+node_modules/
